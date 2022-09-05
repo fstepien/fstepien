@@ -25,3 +25,5 @@ I’m currently learning ...
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+![Rust](https://img.shields.io/badge/rust-3670A0?style=for-the-badge&logo=rust&logoColor=ffdd54) 
